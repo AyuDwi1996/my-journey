@@ -17,8 +17,8 @@ Welcome to my portfolio project! This application is built using React JS and sh
 
 This portfolio project is designed to provide a comprehensive view of my skills, projects, and experiences. It is built with React JS, utilizing various modern web development techniques and best practices.
 
-## Demo
-[https://ayudwi1996.github.io/my-journey/](Link to website)
+## Link to website
+[https://ayudwi1996.github.io/my-journey/]
 
 ## Components
 
