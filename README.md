@@ -12,10 +12,6 @@ Welcome to my portfolio project! This application is built using React JS and sh
   - [Projects](#projects)
   - [Contact](#contact)
 - [React Concepts](#react-concepts)
-<<<<<<< HEAD
-=======
-
->>>>>>> 05cb108d9c42b23ddad50e207879785dd2e4d71f
 
 ## Introduction
 
