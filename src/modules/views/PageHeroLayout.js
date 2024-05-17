@@ -1,7 +1,7 @@
 import * as React from 'react';
 import PropTypes from 'prop-types';
 import { styled } from '@mui/material/styles';
-
+import arrow from '../../assets/productHeroArrowDown.png';
 import Container from '@mui/material/Container';
 import Box from '@mui/material/Box';
 
@@ -58,7 +58,7 @@ function PageHeroLayout(props) {
         <Background sx={sxBackground} />
         <Box
           component="img"
-          src="/static/themes/onepirate/productHeroArrowDown.png"
+          src={arrow}
           height="16"
           width="12"
           alt="arrow down"
