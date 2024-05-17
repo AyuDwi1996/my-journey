@@ -12,11 +12,6 @@ Welcome to my portfolio project! This application is built using React JS and sh
   - [Projects](#projects)
   - [Contact](#contact)
 - [React Concepts](#react-concepts)
-- [Analyzing the Bundle Size](#analyzing-the-bundle-size)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 

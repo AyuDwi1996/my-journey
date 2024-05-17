@@ -87,7 +87,7 @@ function Projects() {
                 <Typography variant="body2" color="text.secondary">
                   An extensive web platform spotlighting research opportunities, scholarships, competitions, and on-campus jobs throughout my Master's program at CSU East Bay to help upcoming students.
                   <br />
-                  <Link href="#explore">Link to Demo</Link>
+                  <Link href="https://github.com/AyuDwi1996/my-journey">Git Repo</Link>
                 </Typography>
               </CardContent>
             </Card>
